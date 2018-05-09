@@ -12,7 +12,7 @@
   display: none;
 }
 
-#wall #tag-4
+#wall .parent 
 
 #wall div.parent + div.parent #tag-5.slick {
  display: none;
